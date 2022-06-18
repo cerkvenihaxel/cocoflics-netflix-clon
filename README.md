@@ -14,5 +14,5 @@ Captura:
 
 <img src="/img/screenshot.png" alt="Screenshot Cocoflics">
 
-## Gracias por visitar mi perfil de GitHub! 
+## Gracias por visitar mi perfil de GitHub 🥰! 
 
